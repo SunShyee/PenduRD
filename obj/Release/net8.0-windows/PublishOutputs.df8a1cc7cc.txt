@@ -1,0 +1,5 @@
+C:\Users\REMI\Desktop\Test\PenduRD.exe
+C:\Users\REMI\Desktop\Test\PenduRD.dll
+C:\Users\REMI\Desktop\Test\PenduRD.deps.json
+C:\Users\REMI\Desktop\Test\PenduRD.runtimeconfig.json
+C:\Users\REMI\Desktop\Test\PenduRD.pdb
